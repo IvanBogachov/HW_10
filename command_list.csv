@@ -22,6 +22,6 @@
     22 git commit -m "edit develop_test.txt"
     23 git push
     24 git checkout main
-    26 git merge develop
-    27 git log
-    28 history > command_list.csv
+    25 git merge develop
+    26 git log
+    27 history > command_list.csv
